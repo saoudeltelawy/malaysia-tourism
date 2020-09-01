@@ -1,0 +1,30 @@
+This is open project using Mainly Sass + Bootstrap 4 + Bootstrap Selctor wiz live search  + Jquery + JS and
+Some Plugins (Jquery UI ,.... etc.)
+
+    *BS ScrollSpy
+    *Some Bootstrap Modal Login ,.... 
+    *Owl Carousel
+    *Aos Scrolling Animation
+
+BS Select:
+https://developer.snapappointments.com/bootstrap-select/
+
+
+*Google Fonts Used:
+------------------
+font-family: 'Roboto', sans-serif;
+font-family: 'Baloo Thambi 2', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Cairo', sans-serif;
+
+
+Sass 
+A CSS preprocessor is a program that lets you generate CSS from the preprocessor's own unique syntax. There are many CSS preprocessors to choose from, however most CSS preprocessors will add some features that don't exist in pure CSS, such as mixin, nesting selector, inheritance selector, and so on. These features make the CSS structure more readable and easier to maintain.
+
+
+
+V2 :
+----
+-FavIcon
+-Counter Of visitors per 2019-2020
+-
